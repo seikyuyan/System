@@ -3,5 +3,4 @@ maintainer		'YOUR_COMPANY_NAME'
 maintainer_email	'YOUR_EMAIL'
 license			'All Rights Reserved'
 description		'Installs/Configures my_cookbook'
-long_description	IO.read(File.join(file.dirname(__FILE__), 'README.md'))
 version			'0.1.0'
